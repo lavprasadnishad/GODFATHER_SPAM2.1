@@ -1,4 +1,4 @@
-<h1 align="center"><b>NTSPAMEEER</b></h1>
+<h1 align="center"><b>NTSPAM</b></h1>
 
 <h4 align="center"> 𝐀 𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋 𝐒𝐏𝐀𝐌𝐁𝐎𝐓𝐒</h4>
 
